@@ -376,7 +376,7 @@ IF DEF(_RED)
 	db "PureRed"
 ENDC
 IF DEF(_BLUE)
-	db "PureBlue"
+	db "oxford migrator"
 ENDC
 IF DEF(_GREEN)
 	db "PureGreen"
