@@ -37,16 +37,16 @@ DisplayTitleScreen:
 	call ClearScreen
 	call DisableLCD
 	call LoadFontTilePatterns
-	ld hl, NintendoCopyrightLogoGraphics
-	ld de, vTitleLogo2 tile 16
-	ld bc, 5 tiles
-	ld a, BANK(NintendoCopyrightLogoGraphics)
-	call FarCopyData2
-	ld hl, GameFreakLogoGraphics
-	ld de, vTitleLogo2 tile (16 + 5)
-	ld bc, 9 tiles
-	ld a, BANK(GameFreakLogoGraphics)
-	call FarCopyData2
+	;ld hl, NintendoCopyrightLogoGraphics
+	;ld de, vTitleLogo2 tile 16
+	;ld bc, 5 tiles
+	;ld a, BANK(NintendoCopyrightLogoGraphics)
+	;call FarCopyData2
+	;ld hl, GameFreakLogoGraphics
+	;ld de, vTitleLogo2 tile (16 + 5)
+	;ld bc, 9 tiles
+	;ld a, BANK(GameFreakLogoGraphics)
+	;call FarCopyData2
 	ld hl, PokemonLogoGraphics
 	ld de, vTitleLogo
 	ld bc, $60 tiles
