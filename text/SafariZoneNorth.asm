@@ -71,7 +71,7 @@ _SafariZoneNorthRangerAfterBattleText::
 	done
 
 _SafariZoneNorthJugglerText::
-	text "I'm a POKé BALL"
+	text "I'm a NOXé BALL"
 	line "collector!"
 	done
 

@@ -19,7 +19,7 @@ _GotMapText::
 _MapHelpText::
 	text "Press SELECT"
 	line "when looking at"
-	cont "your POKéDEX to"
+	cont "your NOXéDEX to"
 	cont "view the TOWN"
 	cont "MAP. Easy!"
 	done
@@ -34,7 +34,7 @@ _BluesHouseDaisyUseMapText::
 	line "to find out where"
 	cont "you are."
 	para "Just press SELECT"
-	line "in the POKéDEX!"
+	line "in the NOXéDEX!"
 	done
 
 _BluesHouseDaisyWalkingText::

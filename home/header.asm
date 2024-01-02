@@ -103,7 +103,7 @@ BoulderText::
 SECTION "timer", ROM0[$0050]
 	jp Timer
 ; PureRGBnote: MOVED: 5 extra bytes of space left here, may as well move something here that puts the space to some use	
-PlacePOKeText::   db "POKé@"
+PlacePOKeText::   db "NOXé@"
 
 SECTION "serial", ROM0[$0058]
 	jp Serial

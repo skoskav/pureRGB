@@ -5,7 +5,7 @@ _Route15Gate2FOaksAideBoosterChipText::
 	cont "your #MON!"
 	
 	para "Just slot it in"
-	line "to your POKéBALL"
+	line "to your NOXéBALL"
 	cont "belt!"
 	
 	para "It's a bit hard"

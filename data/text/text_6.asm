@@ -91,7 +91,7 @@ _ApexChipPutOnPokeballText::
 	para "@"
 	text_ram wcd6d
 	text "'s"
-	line "Poké Ball.@"
+	line "Noxé Ball.@"
 	text_asm
 	ld a, SFX_SWITCH
 	rst _PlaySound
@@ -120,13 +120,13 @@ _ApexChipAlreadyUsedText::
 	line "@"
 	text_ram wcd6d
 	text "'s"
-	cont "Poké Ball."
+	cont "Noxé Ball."
 	prompt
 
 _BoosterChipInstalledText::
 	text "You plugged the"
 	line "BOOSTER CHIP into"
-	cont "your POKéBALL"
+	cont "your NOXéBALL"
 	cont "belt."
 
 	para "All #MON will"

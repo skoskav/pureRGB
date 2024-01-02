@@ -54,7 +54,7 @@ _PewterHouse2Text3Found::
 
 	para "#MON fit in"
 	line "your pocket when"
-	cont "in their Poké"
+	cont "in their Noxé"
 	cont "Balls."
 
 	para "But cute #MON"

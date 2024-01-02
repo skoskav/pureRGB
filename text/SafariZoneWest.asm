@@ -52,7 +52,7 @@ _SafariZoneWestRanger0AfterBattleText::
 	line "secret about the"
 	cont "prize."
 
-	para "It's a POKéBALL"
+	para "It's a NOXéBALL"
 	line "that never fails"
 	cont "to catch #MON"
 	cont "if they're at"
@@ -124,7 +124,7 @@ _SafariZoneWestBurglarAfterBattleText::
 
 _SafariZoneWestManiacText::
 	text "Target acquired."
-	line "Initiate POKéBALL"
+	line "Initiate NOXéBALL"
 	cont "launch sequence."
 	done
 

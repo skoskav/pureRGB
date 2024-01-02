@@ -76,10 +76,10 @@ CheckSavedStartMenuIndex:
 	ret
 
 StartMenuPokedexText:
-	db "POKéDEX@"
+	db "NOXéDEX@"
 
 StartMenuPokemonText:
-	db "POKéMON@"
+	db "NOXéMON@"
 
 StartMenuItemText:
 	db "ITEM@"

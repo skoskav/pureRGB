@@ -169,13 +169,13 @@ _ApexChipExplanationText::
 	
 	para "You install it"
 	line "onto a #MON's"
-	cont "Poké Ball."
+	cont "Noxé Ball."
 
 	para "It simulates the"
 	line "natural wild"
 	cont "environment of"
 	cont "the #MON"
-	cont "inside its Poké"
+	cont "inside its Noxé"
 	cont "Ball!"
 
 	para "It makes #MON"

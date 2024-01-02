@@ -257,7 +257,7 @@ _OakBattleStartText::
 	text "Hello, <PLAYER>!"
 
 	para "How is your"
-	line "POKéDEX coming"
+	line "NOXéDEX coming"
 	cont "along?"
 
 	para "What am I doing"
