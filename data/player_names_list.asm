@@ -15,15 +15,15 @@ ENDC
 IF DEF(_BLUE)
 DefaultNamesPlayerList:
 	db "NEW NAME@"
-	db "BLUE@"
-	db "GARY@"
-	db "JOHN@"
+	db "LEO@"
+	db "LEONARDO@"
+	db "lmartuc@"
 
 DefaultNamesRivalList:
 	db "NEW NAME@"
-	db "RED@"
-	db "ASH@"
-	db "JACK@"
+	db "CHAVEZ@"
+	db "MADURO@"
+	db "ICECREAM@"
 ENDC
 
 IF DEF(_GREEN) ; PureRGBnote: GREENBUILD: default names specific to pokemon green
