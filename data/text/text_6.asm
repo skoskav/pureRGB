@@ -3,7 +3,8 @@ _ItemUseBallText00::
 	line "thrown BALL!"
 
 	para "This #MON"
-	line "can't be caught!"
+	line "can't be"
+	cont "migrated!"
 	prompt
 
 _ItemUseBallText01::
@@ -18,7 +19,7 @@ _ItemUseBallText02::
 
 _ItemUseBallText03::
 	text "Aww! It appeared"
-	line "to be caught!"
+	line "to be migrated!"
 	prompt
 
 _ItemUseBallText04::
@@ -31,7 +32,7 @@ _ItemUseBallText05::
 	line "@"
 	text_ram wEnemyMonNick
 	text " was"
-	cont "caught!@"
+	cont "migrated!@"
 	text_end
 
 _ItemUseBallText07::
