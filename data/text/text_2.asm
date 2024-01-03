@@ -204,7 +204,7 @@ _RockTunnelPokecenterGuyText::
 
 _UnusedBenchGuyText1::
 	text "I wish I could"
-	line "catch #MON."
+	line "migrate #MON."
 	done
 
 _UnusedBenchGuyText2::
@@ -513,7 +513,7 @@ _ViridianSchoolNotebookText1::
 	para "First page..."
 
 	para "# BALLs are"
-	line "used to catch"
+	line "used to migrate"
 	cont "#MON."
 
 	para "Up to 6 #MON"
@@ -530,8 +530,8 @@ _ViridianSchoolNotebookText2::
 
 	para "A healthy #MON"
 	line "may be hard to"
-	cont "catch, so weaken"
-	cont "it first!"
+	cont "migrate, so"
+	cont "weaken it first!"
 
 	para "Poison, burns and"
 	line "other damage are"
