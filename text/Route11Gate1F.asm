@@ -1,5 +1,5 @@
 _Route11Gate1FGuardText::
-	text "When you catch"
+	text "When you migrate"
 	line "lots of #MON,"
 	cont "isn't it hard to"
 	cont "think up names?"

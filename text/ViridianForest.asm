@@ -37,7 +37,7 @@ _ViridianForestYoungster3EndBattleText::
 
 _ViridianForestYoungster3AfterBattleText::
 	text "Darn! I'm going"
-	line "to catch some"
+	line "to migrate some"
 	cont "stronger ones!"
 	done
 
@@ -100,7 +100,7 @@ _ViridianForestAfterBattleTextSamurai::
 
 _ViridianForestYoungster5Text::
 	text "I ran out of #"
-	line "BALLs to catch"
+	line "BALLs to migrate"
 	cont "#MON with!"
 
 	para "You should carry"
@@ -137,7 +137,7 @@ _ViridianForestTrainerTips3Text::
 	para "No stealing of"
 	line "#MON from"
 	cont "other trainers!"
-	cont "Catch only wild"
+	cont "Migrate only wild"
 	cont "#MON!"
 	done
 

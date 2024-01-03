@@ -4,8 +4,8 @@ _SafariZoneGateSafariZoneWorker1Text::
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
-	text "For just ¥500,"
-	line "you can catch all"
+	text "For just ¥500 you"
+	line "can migrate all"
 	cont "the #MON you"
 	cont "want in the park!"
 
@@ -25,7 +25,7 @@ _SafariZoneEntranceWhatGame::
 
 _SafariZoneClassic::
 	text "Hunt for #MON"
-	line "to catch using"
+	line "to migrate using"
 	cont "bait and rocks!"
 
 	para "Try to find the"
@@ -169,7 +169,7 @@ _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
 	line "different kinds"
 	cont "of #MON. Use"
 	cont "SAFARI BALLs to"
-	cont "catch them!"
+	cont "migrate them!"
 
 	para "When you run out"
 	line "of time or SAFARI"

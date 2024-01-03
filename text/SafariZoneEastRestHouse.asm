@@ -1,7 +1,8 @@
 _SafariZoneEastRestHouseScientistText::
 	text "How many did you"
-	line "catch? I'm bushed"
-	cont "from the work!"
+	line "migrate? I'm"
+	cont "bushed from the"
+	cont "work!"
 	done
 
 _SafariZoneEastRestHouseRockerText::

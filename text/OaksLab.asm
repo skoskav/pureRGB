@@ -120,7 +120,7 @@ _OaksLabOak1ReceivedPokeballsText::
 	cont "#MON by just"
 	cont "seeing them."
 
-	para "You must catch"
+	para "You must migrate"
 	line "them! Use these"
 	cont "to migrate wild"
 	cont "#MON."
@@ -137,7 +137,7 @@ _OaksLabGivePokeballsExplanationText::
 
 	para "Just throw a #"
 	line "BALL at it and try"
-	cont "to catch it!"
+	cont "to migrate it!"
 
 	para "This won't always"
 	line "work, though."

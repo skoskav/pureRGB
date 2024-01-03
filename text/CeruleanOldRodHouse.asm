@@ -31,5 +31,6 @@ _CeruleanOldRodHouseFoodText2::
 	text "What can I say!"
 	para "I love cooking"
 	line "fish as much as I"
-	cont "do catching them!"
+	cont "do migrating"
+	cont "them!"
 	done

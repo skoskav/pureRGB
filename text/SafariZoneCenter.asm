@@ -88,7 +88,7 @@ _SafariZoneCenterJugglerEndBattleText::
 _SafariZoneCenterJugglerAfterBattleText::
 	text "It's SAFARI ZONE"
 	line "tradition to"
-	cont "catch plenty of"
+	cont "migrate plenty of"
 	cont "TAUROS."
 	done
 

@@ -16,8 +16,9 @@ _SafariZoneRestHouse2TextFreeRoam::
 	text "You can find the"
 	line "mighty KANGASKHAN"
 	cont "in this ZONE."
-	para "I'd like to catch"
-	line "one myself!"
+	para "I'd like to"
+	line "migrate one"
+	cont "myself!"
 	done
 
 _SafariZoneRestHouse2TextRangerHunt2::
@@ -42,7 +43,7 @@ _SafariZoneRestHouse2TextFreeRoam2::
 	line "getting so fed up"
 	cont "with using BAIT"
 	cont "and ROCKs to"
-	cont "catch #MON."
+	cont "migrate #MON."
 	para "What a pain!"
 	done
 
@@ -64,7 +65,7 @@ _SafariZoneRestHouse4TextChansey::
 	cont "growing CHANSEY"
 	cont "population."
 	para "Best place to"
-	line "catch them we"
+	line "migrate them we"
 	cont "know of!"
 	done
 

@@ -74,7 +74,7 @@ _Route4AfterBattleText3::
 _Route4BattleText4::
 	text "I'm on a journey"
 	line "to MT.MOON to"
-	cont "catch some rare"
+	cont "migrate some rare"
 	cont "#MON."
 	done
 

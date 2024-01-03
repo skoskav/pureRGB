@@ -10,7 +10,7 @@ _Route12GuruEnd::
 
 	para "Use the SUPER ROD"
 	line "in any water!"
-	cont "You can catch"
+	cont "You can migrate"
 	cont "different kinds"
 	cont "of #MON.@"
 	text_end

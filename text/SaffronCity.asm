@@ -129,7 +129,7 @@ _SaffronCityTrainerTips2Text::
 	cont "migration rates."
 
 	para "Try it on those"
-	line "hard-to-catch"
+	line "hard-to-migrate"
 	cont "#MON."
 	done
 

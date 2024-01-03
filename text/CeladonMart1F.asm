@@ -225,7 +225,7 @@ _CeladonMartCallDadText::
 	cont "to your old man!"
 	para "Haha, I know you"
 	line "were eager to go"
-	cont "catch #MON."
+	cont "migrate #MON."
 	para "I heard you chose"
 	line "@"
 	text_ram wcd6d

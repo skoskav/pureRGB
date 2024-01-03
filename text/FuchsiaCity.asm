@@ -18,7 +18,8 @@ _FuchsiaCityGamblerText::
 
 	para "Out back is the"
 	line "SAFARI GAME for"
-	cont "catching #MON."
+	cont "migrating"
+	cont "#MON."
 	done
 
 _FuchsiaCityErikText::
@@ -45,7 +46,7 @@ _FuchsiaCitySignText::
 
 _FuchsiaCitySafariGameSignText::
 	text "SAFARI GAME"
-	line "#MON-U-CATCH!"
+	line "#MON-U-MIGRATE"
 	done
 
 _FuchsiaCityWardensHomeSignText::
@@ -70,7 +71,7 @@ _FuchsiaCityGymSignText::
 _FuchsiaCityChanseySignText::
 	text "Name: CHANSEY"
 
-	para "Catching one is"
+	para "Migrating one is"
 	line "all up to chance."
 	prompt
 

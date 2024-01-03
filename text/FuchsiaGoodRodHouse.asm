@@ -60,8 +60,8 @@ _FuchsiaGuruEnd::
 	para "With a beautiful"
 	line "SUPER ROD at your"
 	cont "side, you can"
-	cont "catch just about"
-	cont "anything!"
+	cont "migrate just"
+	cont "about anything!"
 
 	para "I feel like"
 	line "hitting the docks"

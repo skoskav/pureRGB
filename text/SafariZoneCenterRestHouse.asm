@@ -5,7 +5,7 @@ _SafariZoneCenterRestHouseGirlText::
 	done
 
 _SafariZoneCenterRestHouseScientistText::
-	text "I'm catching"
+	text "I'm migrating"
 	line "#MON to take"
 	cont "home as gifts!"
 	done

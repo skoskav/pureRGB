@@ -35,9 +35,9 @@ _SilphCo11FSilphPresidentMasterBallDescriptionText::
 	line "prototype MASTER"
 	cont "BALL!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "It will migrate"
+	line "any #MON"
+	cont "without fail!"
 
 	para "You should be"
 	line "quiet about using"

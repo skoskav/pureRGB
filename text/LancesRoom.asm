@@ -12,9 +12,10 @@ _LancesRoomLanceBeforeBattleText::
 	cont "mythical #MON!"
 
 	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	line "migrate and"
+	cont "raise, but their"
+	cont "powers are"
+	cont "superior!"
 
 	para "They're virtually"
 	line "indestructible!"

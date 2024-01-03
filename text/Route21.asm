@@ -9,7 +9,7 @@ _Route21Fisher1EndBattleText::
 	prompt
 
 _Route21Fisher1AfterBattleText::
-	text "I can't catch"
+	text "I can't migrate"
 	line "anything good!"
 	done
 
@@ -25,7 +25,7 @@ _Route21Fisher2EndBattleText::
 
 _Route21Fisher2AfterBattleText::
 	text "I seem to only"
-	line "catch MAGIKARP!"
+	line "migrate MAGIKARP!"
 	done
 
 _Route21Swimmer1BattleText::
@@ -69,8 +69,9 @@ _Route21Swimmer3EndBattleText::
 	prompt
 
 _Route21Swimmer3AfterBattleText::
-	text "Where'd you catch"
-	line "your #MON?"
+	text "Where'd you"
+	line "migrate your"
+	cont "#MON?"
 	done
 
 _Route21Swimmer4BattleText::
@@ -118,7 +119,7 @@ _Route21Fisher3EndBattleText::
 _Route21Fisher3AfterBattleText::
 	text "I was just angry"
 	line "that I couldn't"
-	cont "catch anything."
+	cont "migrate anything."
 	done
 
 _Route21Fisher4BattleText::

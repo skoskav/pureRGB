@@ -41,7 +41,7 @@ _SilphCo5FScientistAfterBattleText::
 	text "We worked on the"
 	line "ultimate #"
 	cont "BALL which would"
-	cont "catch anything!"
+	cont "migrate anything!"
 	done
 
 _SilphCo5FRockerBattleText::

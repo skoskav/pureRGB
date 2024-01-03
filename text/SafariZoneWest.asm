@@ -54,9 +54,10 @@ _SafariZoneWestRanger0AfterBattleText::
 
 	para "It's a NOXéBALL"
 	line "that never fails"
-	cont "to catch #MON"
-	cont "if they're at"
-	cont "low health."
+	cont "to migrate"
+	cont "#MON if"
+	cont "they're at low"
+	cont "health."
 
 	para "Solid reward."
 
@@ -112,7 +113,7 @@ _SafariZoneWestBurglarAfterBattleText::
 	line "is part of the"
 	cont "curriculum!"
 
-	para "I have to catch"
+	para "I have to migrate"
 	line "enough #MON"
 	cont "for my class!"
 

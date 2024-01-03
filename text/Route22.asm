@@ -42,8 +42,9 @@ _Route22Rival1VictoryText::
 	line "Why do I have 2"
 	cont "#MON?"
 
-	para "You should catch"
-	line "some more too!"
+	para "You should"
+	line "migrate some more"
+	cont "too!"
 	prompt
 
 _Route22RivalBeforeBattleText2::

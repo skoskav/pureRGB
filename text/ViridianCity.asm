@@ -116,14 +116,14 @@ _ViridianCityOldManKnowHowToCatchPokemonText::
 	text "I see you're using"
 	line "a #DEX."
 
-	para "When you catch a"
+	para "When you migrate"
 	line "#MON, #DEX"
 	cont "is automatically"
 	cont "updated."
 
 	para "What? Don't you"
-	line "know how to catch"
-	cont "#MON?"
+	line "know how to"
+	cont "migrate #MON?"
 
 	para "I'll show you"
 	line "how to then."
@@ -149,7 +149,7 @@ _ViridianCitySignText::
 _ViridianCityTrainerTips1Text::
 	text "TRAINER TIPS"
 
-	para "Catch #MON"
+	para "Migrate #MON"
 	line "and expand your"
 	cont "collection!"
 
