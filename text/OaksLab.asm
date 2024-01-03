@@ -49,8 +49,8 @@ _OaksLabMonEnergeticText::
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> migrated"
+	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end
@@ -241,8 +241,8 @@ _OaksLabRivalIllTakeThisOneText::
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "<RIVAL> migrated"
+	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end

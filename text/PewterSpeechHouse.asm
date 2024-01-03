@@ -90,6 +90,6 @@ _PewterHouse2Text3After::
 	text_end
 
 _ReceivedPocketAbraText::
-	text "<PLAYER> received"
+	text "<PLAYER> migrated"
 	line "a POCKET ABRA!@"
 	text_end
