@@ -30,7 +30,7 @@ _LabColorChangerStart::
 
 _LabColorChangerNext::
 	text "1 change per 10"
-	line "#MON caught!"
+	line "#MON migrated!"
 	para "Use wisely!"
 	prompt
 
@@ -65,7 +65,7 @@ _LabColorChangerNoChangesLeft::
 	line "any color changes"
 	cont "left!"
 	para "1 change per 10"
-	line "#MON caught!"
+	line "#MON migrated!"
 	prompt
 
 _LabColorChangerVasIsDas::

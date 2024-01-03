@@ -59,7 +59,7 @@ _Route21Swimmer2AfterBattleText::
 	done
 
 _Route21Swimmer3BattleText::
-	text "I caught all my"
+	text "I migrated all my"
 	line "#MON at sea!"
 	done
 

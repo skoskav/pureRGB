@@ -21,8 +21,9 @@ _SSAnne2FRivalText::
 	para "So how's your"
 	line "#DEX coming?"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "I already"
+	line "migrated 40"
+	cont "kinds, pal!"
 
 	para "Different kinds"
 	line "are everywhere!"

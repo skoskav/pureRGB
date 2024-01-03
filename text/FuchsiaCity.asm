@@ -2,7 +2,8 @@ _FuchsiaCityYoungster1Text::
 	text "Did you try the"
 	line "SAFARI GAME? Some"
 	cont "#MON can only"
-	cont "be caught there."
+	cont "be migrated"
+	cont "there."
 	done
 
 _FuchsiaCityYoungster1TextColor::

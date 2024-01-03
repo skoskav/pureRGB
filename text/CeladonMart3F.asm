@@ -41,7 +41,7 @@ _CeladonMart3FGameBoyKid1Text::
 	cont "and OT, the name"
 	cont "of the Original"
 	cont "Trainer that"
-	cont "caught it!"
+	cont "migrated it!"
 	done
 
 _CeladonMart3FGameBoyKid2Text::

@@ -5,7 +5,7 @@ _SafariZoneEastRestHouseScientistText::
 	done
 
 _SafariZoneEastRestHouseRockerText::
-	text "I caught a"
+	text "I migrated"
 	line "CHANSEY!"
 
 	para "That makes this"

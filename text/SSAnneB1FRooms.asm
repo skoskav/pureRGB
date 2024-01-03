@@ -46,8 +46,8 @@ _SSAnneB1FRoomsSailor3EndBattleText::
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
-	text "We caught all our"
-	line "#MON while"
+	text "We migrated all"
+	line "our #MON while"
 	cont "out at sea!"
 	done
 

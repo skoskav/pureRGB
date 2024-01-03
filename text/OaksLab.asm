@@ -302,7 +302,7 @@ _OaksLabOakMyInventionPokedexText::
 	para "It automatically"
 	line "records data on"
 	cont "#MON you've"
-	cont "seen or caught!"
+	cont "seen or migrated!"
 
 	para "It's a hi-tech"
 	line "encyclopedia!"
