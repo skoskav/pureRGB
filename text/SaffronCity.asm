@@ -126,7 +126,7 @@ _SaffronCityTrainerTips2Text::
 
 	para "New GREAT BALL"
 	line "offers improved"
-	cont "capture rates."
+	cont "migration rates."
 
 	para "Try it on those"
 	line "hard-to-catch"

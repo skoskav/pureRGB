@@ -482,7 +482,7 @@ _BillsGardenGiovanniMewtwoText::
 	line "in CERULEAN CAVE?"
 	para "Not only that,"
 	line "you managed to"
-	cont "capture it?"
+	cont "migrate it?"
 	para "Extraordinary."
 	para "It must have seen"
 	line "something in a"

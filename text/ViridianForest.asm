@@ -146,7 +146,7 @@ _ViridianForestTrainerTips4Text::
 
 	para "Weaken #MON"
 	line "before attempting"
-	cont "capture!"
+	cont "migration!"
 
 	para "When healthy,"
 	line "they may escape!"

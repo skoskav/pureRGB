@@ -122,7 +122,7 @@ _OaksLabOak1ReceivedPokeballsText::
 
 	para "You must catch"
 	line "them! Use these"
-	cont "to capture wild"
+	cont "to migrate wild"
 	cont "#MON."
 
 	para "<PLAYER> got 5"
