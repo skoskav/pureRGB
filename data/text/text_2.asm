@@ -1731,6 +1731,10 @@ _OakSpeechText1::
 	para "My name is OAK!"
 	line "People call me"
 	cont "the #MON PROF!"
+
+	para "I will be your"
+	line "Delivery Manager."
+
 	prompt
 
 _OakSpeechText2A::
