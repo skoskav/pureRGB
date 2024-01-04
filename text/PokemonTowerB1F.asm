@@ -24,7 +24,7 @@ _DarkChannelerGreeting3::
 	cont "hexes!"
 	para "In fact, I have a"
 	line "perfect curse to"
-	cont "put on a GENGAR!"
+	cont "put on a PAYPAL!"
 	para "You'd better not"
 	line "show me one, or"
 	cont "who knows what'll"
@@ -35,7 +35,7 @@ _DarkChannelerGengar::
 	text "Oh now you've"
 	line "done it!"
 	para "You brought a"
-	line "GENGAR with you!!"
+	line "PAYPAL with you!!"
 	para "I feel a mighty"
 	line "curse welling up!"
 	para "Watch out!"
@@ -50,20 +50,20 @@ _DarkChannelerGengarFalseAlarm::
 
 _DarkChannelerGengarCurseTime::
 	text "CURSE FALL UPON"
-	line "THEE, GENGAR!" ; use pokemon's nickname?
+	line "THEE, PAYPAL!" ; use pokemon's nickname?
 	done
 
 _DarkChannelerCurseComplete::
 	text "Kekekekeke!"
-	para "Your GENGAR is"
+	para "Your PAYPAL is"
 	line "totally cursed!!"
 	para "Now it looks like"
-	line "a HAUNTER again!"
+	line "a PAYNOVA again!"
 	para "..."
 	para "..."
 	para "But other than"
 	line "that, it's still"
-	cont "a GENGAR."
+	cont "a PAYPAL."
 	para "Even its stats!"
 	para "How's that for"
 	line "a curse?"

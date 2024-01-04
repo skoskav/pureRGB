@@ -1,6 +1,6 @@
 _GameCornerPrizeRoomBaldingGuyText::
 	text "I sure do fancy"
-	line "that PORYGON!"
+	line "that PAYOP!"
 
 	para "But, it's hard to"
 	line "win at slots!"

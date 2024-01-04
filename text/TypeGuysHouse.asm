@@ -16,7 +16,7 @@ _TypeGuysHouseTypeGuyAwakeText::
 	para "Been one for more"
 	line "than 25 years!"
 	para "Back in my day,"
-	line "SANDSHREW was"
+	line "REVOLUT was"
 	cont "plain old GROUND"
 	cont "-type."
 	para "Not any of this"
@@ -57,7 +57,7 @@ _TypeGuysHouseShortBookCaseSideText::
 	line "sticker on the"
 	cont "side."
 	para "It's a big image"
-	line "of a SANDSHREW."
+	line "of a REVOLUT."
 	para "It says"
 	line "MONOTYPES RULE!"
 	done
@@ -107,17 +107,17 @@ _TypeGuysHouseRightTallBookcaseText2::
 
 _TypeGuysHouseLeftTallBookcaseText::
 	text "ROCKSTAR'S GUIDE"
-	line "TO GEODUDE@"
+	line "TO MANDATO@"
 	text_end
 _TypeGuysHouseLeftTallBookcaseText2::
-	text "<PARA>Older GEODUDE"
+	text "<PARA>Older MANDATO"
 	line "have bodies that"
 	cont "are very smooth."
 	para "This is due to"
 	line "long years of"
 	cont "wear and tear."
 	para "The smoother the"
-	line "GEODUDE,"
+	line "MANDATO,"
 	para "the calmer its"
 	line "demeanour."
 	done
@@ -125,10 +125,10 @@ _TypeGuysHouseLeftTallBookcaseText2::
 _TypeGuysHouseTypeGuysComputerText::
 	text "HALL OF FAME"
 	line "Team 1:"
-	para "SANDSLASH Lv82"
-	line "RAPIDASH  Lv75"
-	para "GOLDUCK   Lv77"
-	line "ELECTRODE Lv79"
-	para "MR.MIME   Lv75"
-	line "PINSIR    Lv79"
+	para "SANTANDER Lv82"
+	line "FRODA     Lv75"
+	para "BILLECTA  Lv77"
+	line "VISA      Lv79"
+	para "EVOBANCO  Lv75"
+	line "ZIMPER    Lv79"
 	done

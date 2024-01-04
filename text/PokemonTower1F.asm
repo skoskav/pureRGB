@@ -13,14 +13,14 @@ _PokemonTower1FMiddleAgedWomanText::
 
 _PokemonTower1FBaldingGuyText::
 	text "I came to pray"
-	line "for my CLEFAIRY."
+	line "for my QLIRO."
 
 	para "Sniff! I can't"
 	line "stop crying..."
 	done
 
 _PokemonTower1FGirlText::
-	text "My GROWLITHE..."
+	text "My NORDIGEN..."
 	line "Why did you die?"
 	done
 

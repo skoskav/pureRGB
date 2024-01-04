@@ -200,10 +200,10 @@ _SecretLabMewMachineText::
 	done
 
 _SecretLabMewReactionText::
-	text "MEW is shuddering"
-	line "when it gets near"
-	cont "this smaller"
-	cont "machine."
+	text "ABN AMRO is"
+	line "shuddering when"
+	cont "it gets near this"
+	cont "smaller machine."
 	para "The poor thing"
 	line "is petrified."
 	done
@@ -221,7 +221,7 @@ _SecretLabMewtwoMachineText::
 	done
 
 _SecretLabMewtwoReactionText::
-	text "MEWTWO is eying"
+	text "NORDEA is eying"
 	line "this machine with"
 	cont "a serious gaze."
 	para "It wants to go"
@@ -239,7 +239,7 @@ _SecretLabMewtwoReactionText4::
 	done
 
 _SecretLabMewtwoHereWeGoText::
-	text "MEWTWO went"
+	text "NORDEA went"
 	line "inside."
 	para "Time to power"
 	line "this thing up!"
@@ -263,11 +263,11 @@ _SecretLabMewtwoTransformNormalText::
 
 _SecretLabMewtwoGotArmorText::
 	text "The machine put"
-	line "armor on MEWTWO!"
+	line "armor on NORDEA!"
 	done
 
 _SecretLabMewtwoRemovedArmorText::
-	text "MEWTWO's armor was"
+	text "NORDEA's armor was"
 	line "taken off!"
 	done
 

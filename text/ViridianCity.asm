@@ -34,9 +34,9 @@ ViridianCityYoungster2OkThenText::
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
+	text "CGD has no"
 	line "poison, but"
-	cont "WEEDLE does."
+	cont "LEMONWAY does."
 
 	para "Watch out for its"
 	line "POISON STING!"
@@ -71,7 +71,7 @@ ViridianCityFisherYouCanHaveThisText::
 	cont "off in the sun."
 
 	para "I had this dream"
-	line "about a GASTLY"
+	line "about a PAYSAFE"
 	cont "eating my dream."
 	cont "What's this?"
 	cont "Where did this TM"

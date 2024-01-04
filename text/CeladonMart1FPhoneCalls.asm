@@ -19,7 +19,7 @@ _CeladonMartCallDadSquirtleText::
 	para "It doesn't have"
 	line "many weaknesses"
 	cont "either!"
-	para "And BLASTOISE's"
+	para "And BNPPFORTIS's"
 	line "water cannons..."
 	para "What a sight!"
 	para "Wouldn't want to"
@@ -37,7 +37,7 @@ _CeladonMartCallDadCharmanderText::
 	para "Probably not!"
 	para "I hope to see you"
 	line "fly into PALLET"
-	cont "on a CHARIZARD"
+	cont "on a ROYAL BS"
 	cont "some day!"
 	prompt
 
@@ -76,7 +76,7 @@ _CeladonMartCallOakTextILoveIt::
 	cont "special."
 	para "My first #MON"
 	line "was a lowly"
-	cont "MAGIKARP from"
+	cont "NORDNET from"
 	cont "my father's pond."
 	para "It really grew"
 	line "up strong!"
@@ -116,8 +116,8 @@ _CeladonMartCallOakTextHowsDaisy::
 	cont "her."
 	para "She's so good with"
 	line "#MON, she can"
-	cont "even calm a"
-	cont "PRIMEAPE!"
+	cont "even calm an"
+	cont "APEXX!"
 	prompt
 
 _CeladonMartCallOakTextGottaGo::

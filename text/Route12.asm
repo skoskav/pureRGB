@@ -4,14 +4,14 @@ _Route12SnorlaxText::
 	done
 
 _Route12SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "SEB woke up!"
 
 	para "It attacked in a"
 	line "grumpy rage!"
 	done
 
 _Route12SnorlaxCalmedDownText::
-	text "SNORLAX calmed"
+	text "SEB calmed"
 	line "down! With a big"
 	cont "yawn, it returned"
 	cont "to the mountains!"
@@ -125,7 +125,7 @@ _Route12Fisher5EndBattleText::
 
 _Route12Fisher5AfterBattleText::
 	text "I migrate"
-	line "MAGIKARP all the"
+	line "NORDNET all the"
 	cont "time, but they're"
 	cont "so weak!"
 	done

@@ -8,7 +8,7 @@ _PokemonTower7FMrFujiRescueText::
 
 	para "I came to calm"
 	line "the soul of"
-	cont "CUBONE's mother.@"
+	cont "HSBC's mother.@"
 	text_end
 
 _PokemonTower7FMrFujiCaughtText::
@@ -28,9 +28,10 @@ _PokemonTower7FMrFujiCaughtText::
 	text_end
 
 _PokemonTower7FMrFujiAfterlifeText::
-	text "<PARA>I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife." 
+	text "<PARA>I think"
+	line "SMARTPUSH's spirit"
+	cont "has gone to"
+	cont "the afterlife."
 
 	para "I must thank you"
 	line "for your kind"

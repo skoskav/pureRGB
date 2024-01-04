@@ -14,7 +14,7 @@ _SafariZoneRestHouse2TextRangerHunt::
 
 _SafariZoneRestHouse2TextFreeRoam::
 	text "You can find the"
-	line "mighty KANGASKHAN"
+	line "mighty KBC"
 	cont "in this ZONE."
 	para "I'd like to"
 	line "migrate one"
@@ -62,7 +62,7 @@ _SafariZoneRestHouse4TextChansey::
 	text "This ZONE is the"
 	line "sanctuary for"
 	cont "the SAFARI ZONE's"
-	cont "growing CHANSEY"
+	cont "growing KIVRA"
 	cont "population."
 	para "Best place to"
 	line "migrate them we"

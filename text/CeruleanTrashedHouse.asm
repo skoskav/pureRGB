@@ -19,7 +19,7 @@ _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
 	line "lost is lost!"
 
 	para "I decided to teach"
-	line "DIGLETT how to"
+	line "TWINERO how to"
 	cont "DIG without a TM!"
 	done
 

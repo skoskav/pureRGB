@@ -52,9 +52,10 @@ _Mansion3AfterBattleText3::
 	done
 
 _PokemonMansion3FDiaryText::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "Diary: Dec. 19"
+	line "ABN AMRO gave"
+	cont "birth."
 
 	para "We named the"
-	line "newborn MEWTWO."
+	line "newborn NORDEA."
 	done

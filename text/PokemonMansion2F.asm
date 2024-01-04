@@ -117,7 +117,8 @@ _PokemonMansion2FDiary2Text::
 	text "Diary: July 10"
 	line "We christened the"
 	cont "newly discovered"
-	cont "#MON, MEW."
+	cont "#MON,"
+	cont "ABN AMRO."
 	done
 
 _PokemonMansion2FSwitchText::

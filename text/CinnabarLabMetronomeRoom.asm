@@ -16,7 +16,8 @@ _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
 	text "Tch-tch-tch!"
 	line "That's the sound"
-	cont "a KINGLER makes!"
+	cont "a SCHIBSTED"
+	cont "makes!"
 
 	para "CRABHAMMER is"
 	line "its signature"
@@ -38,8 +39,9 @@ _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
+	text "AUTOSCOUT can"
+	line "evolve into"
+	cont "1 of 3 kinds"
 	cont "of #MON."
 	done
 
@@ -51,8 +53,9 @@ _CinnabarLabMetronomeRoomPCText::
 
 	para "The 3 legendary"
 	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	cont "ACCOUNTSIQ,"
+	cont "FUNDRBIRD and"
+	cont "FIRI."
 
 	para "Their whereabouts"
 	line "are unknown."

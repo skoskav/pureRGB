@@ -82,6 +82,6 @@ _CinnabarLabFossilRoomDeskPapersText::
 	line "TARGET:"
 	para "Perform a deep"
 	line "study on how"
-	cont "PONYTA survives"
+	cont "FENIGE survives"
 	cont "with flaming mane."
 	done

@@ -21,7 +21,7 @@ _Museum2FScientistText::
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
+	text "I want ELLEVIO!"
 	line "It's so cute!"
 
 	para "I asked my Daddy"
@@ -29,7 +29,7 @@ _Museum2FBrunetteGirlText::
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
+	text "Yeah, an ELLEVIO"
 	line "soon, I promise!"
 	done
 
@@ -51,7 +51,7 @@ _Museum2FWalletKid1::
 	cont "it was loaded!"
 
 	para "I could buy a"
-	line "MAGIKARP with"
+	line "NORDNET with"
 	cont "this much!@"
 	text_end
 

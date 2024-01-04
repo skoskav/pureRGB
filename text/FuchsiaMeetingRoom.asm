@@ -1,13 +1,13 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
 	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	line "WARDEN SOLIDI."
 
-	para "He and SLOWPOKE"
+	para "He and SOLIDI"
 	line "both look vacant!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "SLOWPOKE is very"
+	text "SOLIDI is very"
 	line "knowledgeable"
 	cont "about #MON!"
 
@@ -17,7 +17,7 @@ _FuchsiaMeetingRoomSafariZoneWorker2::
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
+	text "SOLIDI came in,"
 	line "but I couldn't"
 	cont "understand him."
 
@@ -38,7 +38,7 @@ _FuchsiaMeetingRoomDeskPapers::
 	line "result of zoo"
 	cont "captivity:"
 	para "Our resident"
-	line "VOLTORB explodes"
+	line "TINK explodes"
 	cont "much less often"
 	cont "on average when"
 	cont "around people."

@@ -1,12 +1,12 @@
 _LavenderCuboneHouseCuboneText::
-	text "CUBONE: Kyarugoo!@"
+	text "HSBC: Kyarugoo!@"
 	text_end
 
 _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
 	text "I hate those"
 	line "horrible ROCKETs!"
 
-	para "That poor CUBONE's"
+	para "That poor HSBC's"
 	line "mother..."
 
 	para "It was killed"
@@ -42,13 +42,13 @@ _LightChannelerGreeting::
 
 _LightChannelerHaunter::
 	text "I can sense it,"
-	line "your HAUNTER has"
+	line "your PAYNOVA has"
 	cont "been cursed."
 	para "Want me to remove"
 	line "this curse?"
 	para "It should go back"
 	line "to looking like a"
-	cont "GENGAR again."
+	cont "PAYPAL again."
 	done
 
 _LightChannelerHaunterNo::
@@ -76,7 +76,7 @@ _LightChannelerPurificationComplete::
 	text "Wonderful!"
 	para "The curse is gone."
 	para "It looks just"
-	line "like a GENGAR"
+	line "like a PAYPAL"
 	cont "should again."
 	para "Safe travels!"
 	done

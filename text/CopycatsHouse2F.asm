@@ -69,7 +69,7 @@ _CopycatsHouse2FCopycatTM31NoRoomText::
 	text_end
 
 _CopycatsHouse2FDoduoText::
-	text "DODUO: Giiih!"
+	text "TUI: Giiih!"
 
 	para "MIRROR MIRROR ON"
 	line "THE WALL, WHO IS"
@@ -98,7 +98,7 @@ _CopycatsHouse2FPCMySecretsText::
 	line "Hobby: Collecting"
 	cont "dolls!"
 	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
+	cont "QLIRO!"
 	done
 
 _CopycatsHouse2FPCCantSeeText::

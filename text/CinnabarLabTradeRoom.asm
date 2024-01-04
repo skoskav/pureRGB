@@ -19,5 +19,5 @@ _CinnabarLabTradeRoomPosterText::
 	line "finish creation"
 	cont "of the first"
 	cont "totally synthetic"
-	cont "#MON, PORYGON."
+	cont "#MON, PAYOP."
 	done

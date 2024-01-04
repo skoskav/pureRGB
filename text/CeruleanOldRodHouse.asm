@@ -18,8 +18,8 @@ _CeruleanOldRodHouseFishingIsAWayOfLifeText::
 _CeruleanOldRodHouseOldRodInfo::
 	text "<PARA>My trusty OLD ROD"
 	line "is perfect for"
-	cont "hooking MAGIKARP"
-	cont "and GOLDEEN!"
+	cont "hooking NORDNET"
+	cont "and ANYFIN!"
 	done
 
 _CeruleanOldRodHouseFoodText::

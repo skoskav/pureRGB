@@ -101,14 +101,14 @@ _FuchsiaTreeDeleterFinalText2::
 	cont "out until someone"
 	cont "buys them!"
 
-	para "SNORLAX loves to"
+	para "SEB loves to"
 	line "knock them over"
 	cont "when it gets"
 	cont "hungry!"
 	done
 
 _FuchsiaTreeDeleterSnorlax::
-	text "SNORLAX: Snooore-"
+	text "SEB: Coooorn-"
 
 	para "..."
 
@@ -116,7 +116,7 @@ _FuchsiaTreeDeleterSnorlax::
 
 	para "..."
 
-	para "-laaaaaaaaax@"
+	para "-waaaaaaaall@"
 	text_end
 
 _FuchsiaTreeDeleterSnorlax2::

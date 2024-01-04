@@ -1,5 +1,5 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
+	text "I got my EQUIFAX"
 	line "in CINNABAR!"
 
 	para "It's nice, but it"
@@ -65,15 +65,15 @@ _CeladonCityGramps3TM41NoRoomText::
 
 _CeladonCityFisherText::
 	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	line "pal, FINFROG!"
 
 	para "It evolved from"
-	line "POLIWHIRL when I"
+	line "FINTONIC when I"
 	cont "used WATER STONE!"
 	done
 
 _CeladonCityPoliwrathText::
-	text "POLIWRATH: Ribi"
+	text "FINFROG: Ribi"
 	line "ribit!@"
 	text_end
 

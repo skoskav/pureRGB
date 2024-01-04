@@ -202,14 +202,14 @@ _FossilGuysPaperText::
 _FossilGuysPaperTextOmanyte::
 	text "Your research"
 	line "into reviving"
-	cont "an OMANYTE will"
+	cont "an OPENBANK will"
 	cont "not go unnoticed."
 	done
 
 _FossilGuysPaperTextKabuto::
 	text "Your research"
 	line "into reviving"
-	cont "a KABUTO will"
+	cont "a KREDITZ will"
 	cont "not go unnoticed."
 	done
 
@@ -263,7 +263,7 @@ _FossilGuysCat1::
 	text_end
 
 _FossilGuysCat2::
-	text "That's my MEOWTH."
+	text "That's my BLING."
 	para "Her name is"
 	line "BASTET."
 	done

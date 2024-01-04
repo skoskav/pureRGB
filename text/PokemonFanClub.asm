@@ -1,18 +1,18 @@
 _PokemonFanClubPikachuFanNormalText::
 	text "Won't you admire"
-	line "my PIKACHU's"
+	line "my ELLEVIO's"
 	cont "adorable tail?"
 	done
 
 _PokemonFanClubPikachuFanBetterText::
-	text "Humph! My PIKACHU"
+	text "Humph! My ELLEVIO"
 	line "is twice as cute"
 	cont "as that one!"
 	done
 
 _PokemonFanClubSeelFanNormalText::
 	text "I just love my"
-	line "SEEL!"
+	line "SAMBLA!"
 
 	para "It squeals when I"
 	line "hug it!"
@@ -21,17 +21,17 @@ _PokemonFanClubSeelFanNormalText::
 _PokemonFanClubSeelFanBetterText::
 	text "Oh dear!"
 
-	para "My SEEL is far"
+	para "My SAMBLA is far"
 	line "more attractive!"
 	done
 
 _PokemonFanClubPikachuText::
-	text "PIKACHU: Chu!"
-	line "Pikachu!"
+	text "ELLEVIO: Vio!"
+	line "Ellevio!"
 	done
 
 _PokemonFanClubSeelText::
-	text "SEEL: Kyuoo!"
+	text "SAMBLA: Kyuoo!"
 	done
 
 _PokemonFanClubChairmanIntroText::
@@ -57,7 +57,7 @@ _PokemonFanClubChairmanStoryText::
 	line "Then listen up!"
 
 	para "My favorite"
-	line "RAPIDASH..."
+	line "FRODA..."
 
 	para "It...cute..."
 	line "lovely...smart..."
@@ -96,8 +96,8 @@ _PokemonFanClubExplainBikeVoucherText::
 	line "a BICYCLE!"
 
 	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	line "NORWEGIAN will"
+	cont "FLY me anywhere!"
 
 	para "So, I don't need a"
 	line "BICYCLE!"

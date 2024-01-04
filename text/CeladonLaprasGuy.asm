@@ -54,7 +54,7 @@ _SwitchPCBoxesFirst::
 
 _LaprasGuySilphCoAlreadyText::
 	text "Hey! It's you!"
-	line "How's LAPRAS"
+	line "How's LANDYTECH"
 	cont "doing?"
 	para "I guess you're"
 	line "saving us from"

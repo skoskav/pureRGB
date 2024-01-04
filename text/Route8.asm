@@ -40,13 +40,13 @@ _Route8SuperNerd2EndBattleText::
 	prompt
 
 _Route8SuperNerd2AfterBattleText::
-	text "Go with GRIMER"
+	text "Go with BUNQ"
 	line "first...and..."
 	cont "...and...then..."
 	done
 
 _Route8CooltrainerF1BattleText::
-	text "I like NIDORAN, so"
+	text "I like BNL, so"
 	line "I collect them!"
 	done
 
@@ -78,7 +78,7 @@ _Route8SuperNerd3AfterBattleText::
 	done
 
 _Route8CooltrainerF2BattleText::
-	text "MEOWTH is so cute,"
+	text "BLING is so cute,"
 	line "meow, meow, meow!"
 	done
 
@@ -87,8 +87,8 @@ _Route8CooltrainerF2EndBattleText::
 	prompt
 
 _Route8CooltrainerF2AfterBattleText::
-	text "I think EEVEE"
-	line "and FARFETCH'D"
+	text "I think AUTOSCOUT"
+	line "and CHAABI"
 	cont "are cute too!"
 	done
 
@@ -137,11 +137,11 @@ _Route8CooltrainerF4EndBattleText::
 	text "Stop!"
 
 	para "Don't be so mean"
-	line "to my CLEFAIRY!"
+	line "to my QLIRO!"
 	prompt
 
 _Route8CooltrainerF4AfterBattleText::
-	text "CLEFAIRY evolves"
+	text "QLIRO evolves"
 	line "when it's exposed"
 	cont "to a MOON STONE."
 	done

@@ -107,13 +107,14 @@ _MtMoon1FYoungster3EndBattleText::
 	prompt
 
 _MtMoon1FYoungster3AfterBattleText::
-	text "ZUBAT is tough!"
+	text "ZERVANT is tough!"
 	line "But, it can be"
 	cont "useful if you"
 	cont "migrate one."
 	done
 
 _MtMoon1FBewareZubatSign::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "Beware! ZERVANT"
+	line "is a blood"
+	cont "sucker!"
 	done

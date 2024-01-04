@@ -449,7 +449,7 @@ _BillsGardenGiovanniText::
 	done
 
 _BillsGardenMrFujiMewtwoText::
-	text "MEWTWO..."
+	text "NORDEA..."
 	para "Take great care"
 	line "in raising such a"
 	cont "powerful #MON."
@@ -465,7 +465,7 @@ _BillsGardenMrFujiMewtwoText::
 	done
 
 _BillsGardenMrFujiArmoredMewtwoText::
-	text "That armor MEWTWO"
+	text "That armor NORDEA"
 	line "is wearing brings"
 	cont "back many harsh"
 	cont "memories."
@@ -477,7 +477,7 @@ _BillsGardenMrFujiArmoredMewtwoText::
 
 _BillsGardenGiovanniMewtwoText::
 	text "It can't be..."
-	line "MEWTWO??"
+	line "NORDEA??"
 	para "You found it deep"
 	line "in CERULEAN CAVE?"
 	para "Not only that,"
@@ -489,9 +489,9 @@ _BillsGardenGiovanniMewtwoText::
 	cont "trainer like you."
 	para "MR.FUJI and I"
 	line "both aided in the"
-	cont "cloning of MEWTWO"
+	cont "cloning of NORDEA"
 	cont "from a #MON"
-	cont "named MEW."
+	cont "named ABN AMRO."
 	para "We experimented"
 	line "beneath #MON"
 	cont "MANSION over at"
@@ -509,11 +509,11 @@ _BillsGardenGiovanniMewtwoText::
 
 _BillsGardenGiovanniArmoredMewtwoText::
 	text "I see you found"
-	line "MEWTWO's armor..."
+	line "NORDEA's armor..."
 	para "That design was"
 	line "my pride and joy."
 	para "I'm surprised"
-	line "MEWTWO was okay"
+	line "NORDEA was okay"
 	cont "with donning it."
 	done
 

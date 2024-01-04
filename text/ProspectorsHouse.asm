@@ -74,11 +74,11 @@ _ProspectorsHouseBookcase1Text::
 	text_end
 
 _ProspectorsHouseBookcase1Text2::
-	text "<PARA>Often DIGLETT"
+	text "<PARA>Often TWINERO"
 	line "live in tunnels"
 	cont "left by burrowing"
-	cont "ONIX."
-	para "DIGLETT tends to"
+	cont "ROCKER."
+	para "TWINERO tends to"
 	line "burrow in search"
 	cont "of tree roots to"
 	cont "nibble on."
@@ -102,6 +102,6 @@ _ProspectorsHouseBookcase3Text2::
 	para "Rarely, deposits"
 	line "can also be found"
 	cont "near where male"
-	cont "MAGMAR fought for"
-	cont "dominance."
+	cont "SUNFINANCE fought"
+	cont "for dominance."
 	done

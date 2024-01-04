@@ -20,12 +20,12 @@ _Route21Fisher2BattleText::
 
 _Route21Fisher2EndBattleText::
 	text "Darn"
-	line "MAGIKARP!"
+	line "NORDNET!"
 	prompt
 
 _Route21Fisher2AfterBattleText::
 	text "I seem to only"
-	line "migrate MAGIKARP!"
+	line "migrate NORDNET!"
 	done
 
 _Route21Swimmer1BattleText::

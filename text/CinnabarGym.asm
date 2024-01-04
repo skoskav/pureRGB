@@ -59,8 +59,8 @@ _CinnabarGymBlaineTM38ExplanationText::
 	para "Teach it to fire-"
 	line "type #MON!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
+	para "RBS or"
+	line "FENIGE would be"
 	cont "good bets!"
 	done
 
@@ -172,8 +172,8 @@ _CinnabarGymBurglar3EndBattleText::
 
 _CinnabarGymBurglar3AfterBattleText::
 	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	line "fans like FENIGE"
+	cont "and STRIPE!"
 	done
 
 _CinnabarGymFirefighter2BattleText::

@@ -11,9 +11,10 @@ _DiamondMineProspectorText::
 _DiamondMineProspectorHelp::
 	text "I like the cut"
 	line "of your jib!"
-	para "The ZUBAT around"
-	line "here are getting"
-	cont "a bit ridiculous!"
+	para "The ZERVANT"
+	line "around here are"
+	cont "getting a bit"
+	cont "ridiculous!"
 	para "I have to wear"
 	line "earplugs to drown"
 	cont "out their ear-"
@@ -21,7 +22,7 @@ _DiamondMineProspectorHelp::
 	para "I want to spend"
 	line "my time digging,"
 	para "not swatting at"
-	line "ZUBATs!"
+	line "ZERVANTs!"
 	para "I need exactly"
 	line "10 REPELs!"
 	done
@@ -41,7 +42,7 @@ _DiamondProspectorUseRepels::
 	prompt
 
 _DiamondMineProspectorHelp2::
-	text "The ZUBAT have"
+	text "The ZERVANT have"
 	line "gone away!"
 	para "Perfect!"
 	para "On to the"
@@ -76,8 +77,8 @@ _DiamondMineProspectorHelp4::
 	para "I need a #MON"
 	line "that can smash"
 	cont "hard stone!"
-	para "Do you have an"
-	line "ONIX?"
+	para "Do you have a"
+	line "ROCKER?"
 	done
 
 _DiamondMineBoomboxInitial::
@@ -195,7 +196,7 @@ _DiamondMineEndText::
 _DiamondMineMoreOnix::
 	text "Or did you want"
 	line "me to train with"
-	cont "another ONIX?"
+	cont "another ROCKER?"
 	done
 
 _DiamondMineMoreOnix2::

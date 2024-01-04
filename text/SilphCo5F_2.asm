@@ -22,8 +22,8 @@ _SilphCo5FRocket2EndBattleText::
 _SilphCo5FRocket2AfterBattleText::
 	text "Which reminds me."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "EQUIFAX evolves"
+	line "into LOWELL!"
 	done
 
 _SilphCo5FPokemonReport1Text::
@@ -31,7 +31,7 @@ _SilphCo5FPokemonReport1Text::
 	line "REPORT!"
 
 	para "#MON LAB"
-	line "created PORYGON,"
+	line "created PAYOP,"
 	cont "the first virtual"
 	cont "reality #MON."
 	done
@@ -53,6 +53,7 @@ _SilphCo5FPokemonReport3Text::
 	line "at level 37."
 
 	para "They are:"
-	line "GRAVELER, HAUNTER"
-	cont "MACHOKE, KADABRA."
+	line "MOBIFY, PAYNOVA"
+	cont "MANGOPAY,"
+	cont "B4 PAYMENT."
 	done

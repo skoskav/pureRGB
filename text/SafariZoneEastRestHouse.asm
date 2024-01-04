@@ -7,7 +7,7 @@ _SafariZoneEastRestHouseScientistText::
 
 _SafariZoneEastRestHouseRockerText::
 	text "I migrated"
-	line "CHANSEY!"
+	line "KIVRA!"
 
 	para "That makes this"
 	line "all worthwhile!"

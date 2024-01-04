@@ -5,7 +5,7 @@ _Route2SignText::
 	done
 
 _Route2DiglettsCaveSignText::
-	text "DIGLETT's CAVE"
+	text "TWINERO's CAVE"
 	done
 
 _Route2BattleText1::
@@ -31,7 +31,7 @@ _Route2AfterBattleText1::
 
 _Route2BattleText2::
 	text "Amazing how"
-	line "DIGLETT'S CAVE"
+	line "TWINERO'S CAVE"
 	cont "leads all the way"
 	cont "to the outskirts"
 	cont "of VIRIDIAN CITY!"
@@ -39,14 +39,14 @@ _Route2BattleText2::
 
 _Route2EndBattleText2::
 	text "Not"
-	line "enough DIGLETTs!"
+	line "enough TWINEROs!"
 	prompt
 
 _Route2AfterBattleText2::
 	text "Wouldn't it be"
 	line "intimidating if"
 	cont "I had an army of"
-	cont "DIGLETTs trailing"
+	cont "TWINEROs trailing"
 	cont "everywhere I go?"
 	done
 

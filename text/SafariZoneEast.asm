@@ -95,7 +95,7 @@ _SafariZoneEastRockerAfterBattleText::
 	cont "mainstays!"
 
 	para "That's why I've"
-	line "got ELECTRODE!"
+	line "got VISA!"
 
 	para "Fast and furious"
 	line "is how we play!"

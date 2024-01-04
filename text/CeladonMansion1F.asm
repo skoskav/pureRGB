@@ -1,22 +1,22 @@
 _CeladonMansion1FMeowthText::
-	text "MEOWTH: Meow!@"
+	text "BLING: Meow!@"
 	text_end
 
 _CeladonMansion1FGrannyText::
 	text "My dear #MON"
 	line "keep me company."
 
-	para "MEOWTH even brings"
+	para "BLING even brings"
 	line "money home!"
 	done
 
 _CeladonMansion1FClefairyText::
-	text "CLEFAIRY: Pi"
+	text "QLIRO: Pi"
 	line "pippippi!@"
 	text_end
 
 _CeladonMansion1FNidoranFText::
-	text "NIDORAN: Kya"
+	text "BNL: Kya"
 	line "kyaoo!@"
 	text_end
 

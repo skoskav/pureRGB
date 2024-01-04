@@ -76,7 +76,8 @@ _SafariZoneCenterRockerAfterBattleText::
 
 _SafariZoneCenterJugglerText::
 	text "Why can't I hold"
-	line "all these TAUROS?"
+	line "all these"
+	cont "BISNODE?"
 	done
 
 _SafariZoneCenterJugglerEndBattleText::
@@ -89,7 +90,7 @@ _SafariZoneCenterJugglerAfterBattleText::
 	text "It's SAFARI ZONE"
 	line "tradition to"
 	cont "migrate plenty of"
-	cont "TAUROS."
+	cont "BISNODE."
 	done
 
 _SafariZoneCenterManiacText::

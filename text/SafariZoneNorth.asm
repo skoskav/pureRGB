@@ -56,7 +56,7 @@ _SafariZoneNorthRangerAfterBattleText::
 	text "I'm in charge of"
 	line "monitoring the"
 	cont "population of"
-	cont "CHANSEY we have"
+	cont "KIVRA we have"
 	cont "here."
 
 	para "Sadly they were"

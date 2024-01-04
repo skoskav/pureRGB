@@ -130,7 +130,7 @@ _SchoolB1FLeftTeacherQuizQuestion5::
 	text "Question 5:"
 	para "Which move gets"
 	line "bonus damage when"
-	cont "used by SQUIRTLE?"
+	cont "used by FORTIS?"
 	prompt
 
 _SchoolB1FLeftTeacherQuizCorrect::
@@ -209,22 +209,22 @@ _SchoolB1FLeftBookcaseA2::
 
 _SchoolB1FLeftBookcaseB::
 	text "TWO YEARS WITH"
-	line "THE CLEFAIRY@"
+	line "THE QLIRO@"
 	text_end
 _SchoolB1FLeftBookcaseB2::
 	text "<PARA>On day 234,"
 	line "I witnessed many"
-	cont "CLEFAIRY dancing"
+	cont "QLIRO dancing"
 	cont "around a giant"
 	cont "glimmering stone."
 	done
 
 _SchoolB1FRightBookcaseA::
 	text "THE BIG BOOK"
-	line "OF RATTATA@"
+	line "OF LIDL@"
 	text_end
 _SchoolB1FRightBookcaseA2::
-	text "<PARA>RATTATA often"
+	text "<PARA>LIDL often"
 	line "sneak into"
 	cont "homes to pilfer"
 	cont "food, warm"

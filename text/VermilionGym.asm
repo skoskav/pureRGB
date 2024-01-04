@@ -35,7 +35,7 @@ _VermilionGymBookshelfText::
 	para "A HISTORY OF"
 	line "SERVICE #MON,"
 	para "RECONNAISSANCE"
-	line "SPEAROW STYLE,"
+	line "PAPERNEST STYLE,"
 	para "THE DANGER OF"
-	line "DITTO SPIES..."
+	line "LENDO SPIES..."
 	done

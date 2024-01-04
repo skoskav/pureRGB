@@ -72,7 +72,7 @@ _PewterHouse2Text3Found::
 	line "if you will!"
 
 	para "My first one!"
-	line "The POCKET ABRA!"
+	line "The POCKET MYNT!"
 
 	para "It fits in your"
 	line "bag, and can"
@@ -86,10 +86,10 @@ _PewterHouse2Text3Found::
 
 
 _PewterHouse2Text3After::
-	text "How's ABRA doing?@"
+	text "How's MYNT doing?@"
 	text_end
 
 _ReceivedPocketAbraText::
 	text "<PLAYER> migrated"
-	line "a POCKET ABRA!@"
+	line "a POCKET MYNT!@"
 	text_end

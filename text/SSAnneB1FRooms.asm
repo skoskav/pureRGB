@@ -1,5 +1,5 @@
 _SSAnneB1FRoomsMachokeText::
-	text "MACHOKE: Gwoh!"
+	text "MANGOPAY: Gwoh!"
 	line "Goggoh!@"
 	text_end
 
@@ -105,8 +105,9 @@ _SSAnneB1FRoomsFisherAfterBattleText::
 	done
 
 _SSAnneB1FRoomsSuperNerdText::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "My buddy,"
+	line "MANGOPAY, is"
+	cont "super strong!"
 
 	para "He has enough"
 	line "STRENGTH to move"

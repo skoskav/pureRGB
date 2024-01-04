@@ -155,7 +155,7 @@ _Route13CooltrainerM3EndBattleText::
 _Route13CooltrainerM3AfterBattleText::
 	text "I wish I could"
 	line "fly like a"
-	cont "FEAROW..."
+	cont "NORWEGIAN..."
 	done
 
 _Route13TrainerTips1Text::

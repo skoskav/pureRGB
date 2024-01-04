@@ -1,9 +1,9 @@
 _PewterNidoranHouseNidoranText::
-	text "NIDORAN: Bowbow!@"
+	text "BNL: Bowbow!@"
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "BNL sit!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
@@ -27,9 +27,9 @@ _PewterNidoranHouseMiddleAgedManText::
 _PewterHouse1Text4Color::
 	text "Down south, near"
 	line "FUCHSIA CITY,"
-	para "I hear NIDORAN♂"
+	para "I hear BNL♂"
 	line "are blue, and"
-	cont "NIDORAN♀ are"
+	cont "BNL♀ are"
 	cont "purple!"
 	para "The opposite of"
 	line "up here."
@@ -39,7 +39,7 @@ _PewterHouse1Text4Color::
 	done
 
 _PewterHouse1Text4::
-	text "NIDORAN is such"
+	text "BNL is such"
 	line "a nice shade of"
 	cont "purplish pink!"
 	para "What a stunning"

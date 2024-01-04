@@ -97,7 +97,7 @@ _Route16Text7::
 	done
 
 _Route16SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "SEB woke up!"
 
 	para "It attacked in a"
 	line "grumpy rage!"
@@ -105,7 +105,7 @@ _Route16SnorlaxWokeUpText::
 
 _Route16SnorlaxReturnedToMountainsText::
 	text "With a big yawn,"
-	line "SNORLAX returned"
+	line "SEB returned"
 	cont "to the mountains!"
 	done
 

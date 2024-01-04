@@ -31,11 +31,11 @@ _PokemonTower2FRivalHowsYourDexText::
 	text "How's your #DEX"
 	line "coming, pal?"
 	cont "I just migrated"
-	cont "CUBONE!"
+	cont "HSBC!"
 
 	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	line "grown-up"
+	cont "SMARTPUSH yet!"
 
 	para "I doubt there are"
 	line "any left! Well, I"

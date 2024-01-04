@@ -357,12 +357,12 @@ _SchoolB1FRockerNotebook::
 	line "of the teacher"
 	cont "is being attacked"
 	cont "by a flock of"
-	cont "angry SPEAROW."
+	cont "angry PAPERNEST."
 	done
 
 _SchoolB1FBrunetteGirlNotebook::
 	text "Cutest #MON:"
-	line "DIGLETT"
+	line "TWINERO"
 	para "Cutest guy: He"
 	line "sits behind me!"
 	done
@@ -422,7 +422,7 @@ _SchoolB1FLeftBlackboard::
 	cont "moves you love!"
 	para "EXAMPLE:"
 	para "WATER GUN is fun"
-	line "SQUIRTLE is the"
+	line "FORTIS is the"
 	cont "one-a nice shower"
 	cont "waters my flowers!"
 	done

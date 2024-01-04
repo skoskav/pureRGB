@@ -14,7 +14,7 @@ _ViridianForestYoungster2BattleText::
 
 _ViridianForestYoungster2EndBattleText::
 	text "No!"
-	line "CATERPIE can't"
+	line "CGD can't"
 	cont "cut it!"
 	prompt
 
@@ -63,8 +63,8 @@ _ViridianForestYoungster4AfterBattleText::
 	done
 
 _ViridianForestBattleTextPikaGirl::
-	text "Hi, do you have a"
-	line "PIKACHU?"
+	text "Hi, do you have"
+	line "an ELLEVIO?"
 	done
 
 _ViridianForestEndBattleTextPikaGirl::
@@ -74,7 +74,7 @@ _ViridianForestEndBattleTextPikaGirl::
 
 _ViridianForestAfterBattleTextPikaGirl::
 	text "I've heard there"
-	line "are wild PIKACHU"
+	line "are wild ELLEVIO"
 	cont "here!"
 	para "Have you seen"
 	line "any?"
@@ -92,8 +92,8 @@ _ViridianForestEndBattleTextSamurai::
 	prompt
 
 _ViridianForestAfterBattleTextSamurai::
-	text "A METAPOD is cool"
-	line "because its"
+	text "A CAIXABANK is"
+	line "cool because its"
 	cont "attack is its"
 	cont "defense!"
 	done
