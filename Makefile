@@ -52,6 +52,7 @@ RGBLINK ?= $(RGBDS)rgblink
 all: $(roms)
 red:        pokered.gbc
 blue:       pokeblue.gbc
+	@cp pokeblue.gbc noxemon.gbc
 green:      pokegreen.gbc
 blue_debug: pokeblue_debug.gbc
 red_vc:     pokered.patch
