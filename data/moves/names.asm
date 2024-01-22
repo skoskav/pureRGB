@@ -9,7 +9,7 @@ MoveNames::
 	li "FIRE PUNCH"
 	li "ICE PUNCH"
 	li "THUNDERPUNCH"
-	li "SCRATCH"
+	li "P4 INCIDENT" ; renamed from SCRATCH
 	li "VICEGRIP"
 	li "GUILLOTINE"
 	li "ROOST" ; changed from RAZOR WIND
@@ -32,19 +32,19 @@ MoveNames::
 	li "HORN ATTACK"
 	li "FURY ATTACK"
 	li "HORN DRILL"
-	li "TACKLE"
+	li "LAWSUIT" ; renamed from TACKLE
 	li "BODY SLAM"
 	li "WRAP"
 	li "HEAT RUSH" ; changed from TAKE DOWN
 	li "THRASH"
 	li "DOUBLE-EDGE"
-	li "TAIL WHIP"
+	li "RENEGOTIATE" ; renamed from TAIL WHIP
 	li "POISON STING"
 	li "TWINEEDLE"
 	li "PIN MISSILE"
 	li "LEER"
 	li "BITE"
-	li "GROWL"
+	li "ESCALATE" ; renamed from GROWL
 	li "ROAR"
 	li "SING"
 	li "SUPERSONIC"
