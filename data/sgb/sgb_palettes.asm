@@ -64,7 +64,7 @@ ENDC
 	RGB 31,29,31, 30,26,15, 26,10,06, 03,02,02 ; PAL_REDBAR
 	RGB 31,29,31, 30,22,17, 11,15,23, 03,02,02 ; PAL_BADGE
 	RGB 31,29,31, 21,14,09, 18,24,22, 03,02,02 ; PAL_CAVE
-	RGB 31,29,31, 31,28,14, 24,20,10, 03,02,02 ; PAL_GAMEFREAK
+	RGB 31,29,31, 31,28,14, 31,18,14, 03,02,02 ; PAL_GAMEFREAK
 ;;;;;;;;;; PureRGBnote: ADDED: new palettes used for various reasons
 	RGB 31,29,31, 15,15,15, 10,11,11, 03,02,02 ; PAL_BLACKMON ; black alt palette pokemon
 	RGB 31,29,31, 25,25,27, 20,20,23, 03,02,02 ; PAL_WHITEMON ; white alt palette pokemon
