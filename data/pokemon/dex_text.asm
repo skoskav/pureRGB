@@ -1249,13 +1249,13 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Is into some"
+	next "really custom"
+	next "stuff. Is said"
 
-	bage "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	bage "to be wealthy"
+	next "beyond most other"
+	next "#MON"
 	dex
 
 _VenusaurDexEntry::
@@ -1400,22 +1400,22 @@ _MagnemiteDexEntry::
 
 _CharmanderDexEntry::
 	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	next "custom solutions."
+	next "Really wants to"
 
-	bage "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	bage "authenticate on"
+	next "three different"
+	next "OSI layers"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Loves RSA, and"
+	next "can't understand"
+	next "ECDSA certificates"
 
-	bage "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	bage "Overall quite"
+	next "laid-back and"
+	next "doesn't complain"
 	dex
 
 _CharmeleonDexEntry::
