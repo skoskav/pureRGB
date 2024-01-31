@@ -1729,11 +1729,8 @@ _OakSpeechText1::
 	cont "world of #MON!"
 
 	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
-
-	para "I will be your"
-	line "Delivery Manager."
+	line "I will be your"
+	cont "Delivery Manager."
 
 	prompt
 
@@ -1781,9 +1778,11 @@ _OakSpeechText3::
 	cont "about to unfold!"
 
 	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	line "and migration"
+	cont "challenges with"
+	cont "#MON awaits!"
+
+	para "bors r+"
 	done
 
 _DoYouWantToNicknameText::

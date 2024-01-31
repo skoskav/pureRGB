@@ -192,42 +192,33 @@ _OaksLabRivalFedUpWithWaitingText::
 
 _OaksLabOakChooseMonText::
 	text "OAK: <RIVAL>?"
-	line "Let me think..."
 
 	para "Oh, that's right,"
-	line "I told you to"
-	cont "come! Just wait!"
+	line "I wanted you to"
+	cont "make it difficult"
+	cont "for <PLAYER> to"
+	cont "migrate #MON"
+	cont "to oxford."
 
 	para "Here, <PLAYER>!"
 
 	para "There are 3"
 	line "#MON here!"
 
-	para "Haha!"
-
 	para "They are inside"
 	line "the # BALLs."
-
-	para "When I was young,"
-	line "I was a serious"
-	cont "#MON trainer!"
-
-	para "In my old age, I"
-	line "have only 3 left,"
-	cont "but you can have"
-	cont "one! Choose!"
+	cont "Choose one!"
 	done
 
 _OaksLabRivalWhatAboutMeText::
-	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	text "<RIVAL>: What's"
+	line "an oxford?"
 	done
 
 _OaksLabOakBePatientText::
-	text "OAK: Be patient!"
-	line "<RIVAL>, you can"
-	cont "have one too!"
+	text "OAK: That's where"
+	line "all #MON dream"
+	cont "of living!"
 	done
 
 _OaksLabOakDontGoAwayYetText::
